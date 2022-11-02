@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="900" src="https://i0.wp.com/hudsonweekly.com/wp-content/uploads/2021/08/Latest-Trends-in-Software-Testing-Management.jpg?fit=1507%2C800&ssl=1">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mission141" alt="mission141" /></a> </p>
+
 
 - 🔭 I’m currently working on **Developing my Software Testing Skill**
 
@@ -17,6 +17,8 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1ixCTpztQjJ248SQlrlGmxiJRuHiSIwCY?usp=sharing](https://drive.google.com/drive/folders/1ixCTpztQjJ248SQlrlGmxiJRuHiSIwCY?usp=sharing)
 
 - ⚡ Fun fact **I think I'm a good listener.**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mission141" alt="mission141" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
